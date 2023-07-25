@@ -1,0 +1,127 @@
+   body{
+        background-color: #CEDEBD;
+    }
+.shadow{
+        background-color:  #77889985; 
+    }
+    #aacon{
+            display:none;
+        }
+    #aacon:target{
+            display:grid;
+            position: absolute;
+            top:50%;
+            left:50%;
+            transform: translate(-50%, -50%);
+           
+        }
+        #tdcon{
+            display: none;
+        }
+        #tdcon:target{
+            display: flex;
+        }
+        #atcon{
+            display:none;
+        }
+        #atcon:target{
+            display:grid;
+             position: absolute;
+            top:50%;
+            left:50%;
+            transform: translate(-50%, -50%);
+        }
+        #dtcon{
+            display:none;
+        }
+        #dtcon:target{
+            display:grid;
+        }
+        #utcon{
+            display:none;
+        }
+        #utcon:target{
+            display:grid;
+        }
+         #sdcon{
+            display:none;
+        }
+        #sdcon:target{
+            display:grid;
+        }
+        #ascon{
+            display:none;
+        }
+        #ascon:target{
+            display:grid;
+            position: relative;
+            left: 50%;
+            transform: translate(-50%);
+        }
+        #uscon{
+            display:none;
+        }
+        #uscon:target{
+            display:grid;
+        }
+        #dscon{
+            display:none;
+        }
+        #dscon:target{
+            display:grid;
+        }
+        #amcon{
+            display:none;
+        }
+        #amcon:target{
+            display:grid;
+             position: absolute;
+            top:50%;
+            left:50%;
+            transform: translate(-50%, -50%);
+        }
+        #mdcon{
+            display:none;
+        }
+        #mdcon:target{
+            display:grid;
+        }
+       #ufcon{
+            display:none;
+        }
+        #ufcon:target{
+            display:grid;
+        }
+        #smdcon{
+            display:none;
+        }
+        #smdcon:target{
+            display:grid;
+        }
+        #fdcon{
+            display:none;
+        }
+        #fdcon:target{
+            display:grid;
+        }
+        #pdcon{
+            display:none;
+        }
+        #pdcon:target{
+            display:grid;
+        }
+        #leftcol{
+            min-width: 57px;
+        }
+      #fbdcon{
+            display:none;
+        }
+        #fbdcon:target{
+            display:grid;
+        }   
+        #fbcon{
+            display: none;
+        }
+        #fbcon:target{
+                display: grid;
+         }
